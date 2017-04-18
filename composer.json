@@ -1,0 +1,13 @@
+{
+    "name": "cbyte/unsplash",
+    "description": "Unsplash api package for laravel",
+    "authors": [
+        {
+            "name": "Chiel Bos",
+            "email": "chiel@cbyte.nl"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
