@@ -3,7 +3,7 @@
 ## Installation
 Require this package in your composer.json and update composer.
 
-    composer require cbyte/unsplash
+    composer require cbyte/unsplash dev
 
 ### Laravel
 
